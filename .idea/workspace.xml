@@ -11,7 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40003614-a45e-4daf-a3c4-e54d1d06d2fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aa.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ContossoStage/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ContossoStage/.idea/php.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ContossoStage/.idea/vcs.xml" afterDir="false" />
@@ -23,6 +22,7 @@
       <change beforePath="$PROJECT_DIR$/../../ComptaApp/Api/laravel" beforeDir="false" afterPath="$PROJECT_DIR$/../../ComptaApp/Api/laravel" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Contosso/Backend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Contosso/Backend/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../API" beforeDir="false" afterPath="$PROJECT_DIR$/../API" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ProjetLaravel1" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjetLaravel1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../projet2" beforeDir="false" afterPath="$PROJECT_DIR$/../../projet2" afterDir="false" />
@@ -47,7 +47,7 @@
         <option name="title" value="Current Branch" />
       </GitPushTagMode>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gbVQgqrAH9JAwcWaawuaQNndc1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -81,7 +81,8 @@
       <workItem from="1598435616589" duration="20437000" />
       <workItem from="1598500874361" duration="9015000" />
       <workItem from="1598546630130" duration="7555000" />
-      <workItem from="1598716485405" duration="3708000" />
+      <workItem from="1598716485405" duration="4386000" />
+      <workItem from="1598790836921" duration="1261000" />
     </task>
     <servers />
   </component>
