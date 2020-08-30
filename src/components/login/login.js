@@ -15,7 +15,6 @@ export default class Login extends Component{
 
     }
 
-
     async getConnexion(){
          await axios.post('http://localhost:8000/api/login',
             {
@@ -31,6 +30,7 @@ export default class Login extends Component{
             console.log("Error : "+error);
         })
     }
+
 
 
     render() {

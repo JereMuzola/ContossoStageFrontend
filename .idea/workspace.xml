@@ -11,6 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40003614-a45e-4daf-a3c4-e54d1d06d2fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/aa.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ContossoStage/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ContossoStage/.idea/php.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ContossoStage/.idea/vcs.xml" afterDir="false" />
@@ -40,15 +41,24 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1gbVQgqrAH9JAwcWaawuaQNndc1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
@@ -71,7 +81,7 @@
       <workItem from="1598435616589" duration="20437000" />
       <workItem from="1598500874361" duration="9015000" />
       <workItem from="1598546630130" duration="7555000" />
-      <workItem from="1598716485405" duration="1168000" />
+      <workItem from="1598716485405" duration="3708000" />
     </task>
     <servers />
   </component>
@@ -90,14 +100,21 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598392896579">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1598392896579" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1598551632142">
+    <state x="129" y="55" key="DiffContextDialog" timestamp="1598757611081">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598551632142" />
+    <state x="129" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1598757611081" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1598757614222">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598757614222" />
   </component>
 </project>
